@@ -46,7 +46,7 @@
 
 反方：刘波、羽洋
 
-第一次小组会议 20190618
+[第一次小组会议 20190618](https://github.com/happylyy/AA002_earlyEducation/issues/1)
 
 #### b、各方开始搜集素材
 
