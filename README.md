@@ -55,7 +55,7 @@
 [ch6论证框架参考](https://shimo.im/sheets/4xKHIBB9k8QTtxOM/)
 
 #### c、提交论点论据初稿
-[反方论点初稿](https://shimo.im/sheets/AnCIimOGJS4I43Ao/m6GHp)
+[反方论证过程初稿](https://shimo.im/sheets/AnCIimOGJS4I43Ao/m6GHp)
 
 #### d、梳理脉络，确定思路和优化素材
 
