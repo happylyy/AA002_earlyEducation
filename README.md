@@ -36,6 +36,9 @@
 - 家中儿女年龄：独女6岁
 - 持有论点：兴趣班要尽早
 
+**滔滔孟夏**
+- 信分二期学员
+- 持有论点：报兴趣班前提上家长全面掌握孩子性格特点，家长对兴趣班具体科目要全面认知，孩子、家长、老师三方面都要分析
 
 
 ### 1.2 进度跟踪：孩子的兴趣班要不要趁早
@@ -49,6 +52,7 @@
 [第一次小组会议 20190618](https://github.com/happylyy/AA002_earlyEducation/issues/1)
 
 #### b、各方开始搜集素材
+[ch6论证框架参考](https://shimo.im/sheets/4xKHIBB9k8QTtxOM/)
 
 #### c、提交论点论据初稿
 [反方论点初稿](https://shimo.im/sheets/AnCIimOGJS4I43Ao/m6GHp)
