@@ -51,6 +51,7 @@
 #### b、各方开始搜集素材
 
 #### c、提交论点论据初稿
+[反方论点初稿](https://shimo.im/sheets/AnCIimOGJS4I43Ao/m6GHp)
 
 #### d、梳理脉络，确定思路和优化素材
 
